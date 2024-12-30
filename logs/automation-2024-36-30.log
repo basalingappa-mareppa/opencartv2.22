@@ -1,0 +1,56 @@
+12:39:17.864 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+12:40:06.147 [main] INFO  testCases.TC00_Accountregistration- finishing the testcases execution
+21:17:19.773 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+21:18:11.183 [main] INFO  testCases.TC00_Accountregistration- finishing the testcases execution
+21:34:37.281 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+21:35:38.645 [main] INFO  testCases.TC00_Accountregistration- finishing the testcases execution
+21:35:45.419 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+21:35:45.421 [main] ERROR testCases.TC00_Accountregistration- testfail
+21:35:45.421 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+21:41:19.170 [TestNG-tests-3] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+21:41:19.224 [TestNG-tests-3] ERROR testCases.TC00_Accountregistration- testfail
+21:41:19.224 [TestNG-tests-3] DEBUG testCases.TC00_Accountregistration- debug logs...
+21:41:41.210 [TestNG-tests-1] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+21:42:31.613 [TestNG-tests-1] INFO  testCases.TC00_Accountregistration- finishing the testcases execution
+21:59:08.797 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+21:59:58.383 [main] INFO  testCases.TC00_Accountregistration- finishing the testcases execution
+10:35:05.301 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+10:35:50.736 [main] INFO  testCases.TC00_Accountregistration- finishing the testcases execution
+11:26:25.761 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+11:27:08.549 [main] INFO  testCases.TC00_Accountregistration- finishing the testcases execution
+11:30:54.720 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+11:32:23.303 [main] ERROR testCases.TC00_Accountregistration- testfail
+11:32:23.305 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+11:35:31.405 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+11:38:25.341 [main] INFO  testCases.TC00_Accountregistration- finishing the testcases execution
+12:57:08.354 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+12:57:08.437 [main] ERROR testCases.TC00_Accountregistration- testfail
+12:57:08.437 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+13:05:22.980 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+13:05:23.024 [main] ERROR testCases.TC00_Accountregistration- testfail
+13:05:23.024 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+13:06:44.937 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+13:08:22.454 [main] ERROR testCases.TC00_Accountregistration- testfail
+13:08:22.456 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+13:19:20.955 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+13:20:56.221 [main] ERROR testCases.TC00_Accountregistration- testfail
+13:20:56.222 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+13:22:55.310 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+13:24:14.225 [main] ERROR testCases.TC00_Accountregistration- testfail
+13:24:14.227 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+14:50:29.048 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+14:51:53.388 [main] ERROR testCases.TC00_Accountregistration- testfail
+14:51:53.390 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+14:54:15.405 [TestNG-tests-1] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+14:55:47.908 [TestNG-tests-1] ERROR testCases.TC00_Accountregistration- testfail
+14:55:47.910 [TestNG-tests-1] DEBUG testCases.TC00_Accountregistration- debug logs...
+14:57:46.277 [TestNG-tests-1] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+14:59:11.579 [TestNG-tests-1] ERROR testCases.TC00_Accountregistration- testfail
+14:59:11.580 [TestNG-tests-1] DEBUG testCases.TC00_Accountregistration- debug logs...
+15:02:32.049 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+15:03:47.044 [main] ERROR testCases.TC00_Accountregistration- testfail
+15:03:47.047 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+15:10:59.472 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+15:12:26.073 [main] ERROR testCases.TC00_Accountregistration- testfail
+15:12:26.077 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+15:36:24.654 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this

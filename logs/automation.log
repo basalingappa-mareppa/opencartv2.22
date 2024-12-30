@@ -1,0 +1,6 @@
+15:36:39.977 [main] ERROR testCases.TC00_Accountregistration- testfail
+15:36:39.981 [main] DEBUG testCases.TC00_Accountregistration- debug logs...
+15:48:20.601 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+15:49:02.393 [main] INFO  testCases.TC00_Accountregistration- finishing the testcases execution
+15:49:32.497 [main] INFO  testCases.TC00_Accountregistration- starting the verify test case and the this
+15:49:37.441 [main] INFO  testCases.TC00_Accountregistration- finishing the testcases execution

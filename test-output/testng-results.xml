@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-30T15:47:45 IST" name="Master Suite" finished-at="2024-12-30T15:49:02 IST" duration-ms="76620">
+    <groups>
+      <group name="Master">
+        <method signature="TC00_Accountregistration.verifiy_account_registration()[pri:0, instance:testCases.TC00_Accountregistration@291ae]" name="verifiy_account_registration" class="testCases.TC00_Accountregistration"/>
+      </group> <!-- Master -->
+      <group name="sanity">
+        <method signature="TC00_Accountregistration.verifiy_account_registration()[pri:0, instance:testCases.TC00_Accountregistration@291ae]" name="verifiy_account_registration" class="testCases.TC00_Accountregistration"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-12-30T15:47:45 IST" name="Test" finished-at="2024-12-30T15:49:02 IST" duration-ms="76620">
+      <class name="testCases.TC00_Accountregistration">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC00_Accountregistration@291ae]" started-at="2024-12-30T15:47:46 IST" name="setup" finished-at="2024-12-30T15:48:20 IST" duration-ms="34505" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifiy_account_registration()[pri:0, instance:testCases.TC00_Accountregistration@291ae]" started-at="2024-12-30T15:48:20 IST" name="verifiy_account_registration" finished-at="2024-12-30T15:49:02 IST" duration-ms="41848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifiy_account_registration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC00_Accountregistration@291ae]" started-at="2024-12-30T15:49:02 IST" name="teardown" finished-at="2024-12-30T15:49:02 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC00_Accountregistration -->
+    </test> <!-- Test -->
+  </suite> <!-- Master Suite -->
+</testng-results>
