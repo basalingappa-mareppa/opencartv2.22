@@ -20,7 +20,7 @@ public class TC00_Accountregistration extends Baseclass{
 		hp.searchcontent();
         hp.dropdownsel();
         hp.button();
-       // hp.selectthebooks();
+        hp.selectthebooks();
        // hp.addbookscart();
 		}
 		catch(Exception e)
