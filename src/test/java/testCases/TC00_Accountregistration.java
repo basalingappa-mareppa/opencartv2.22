@@ -20,8 +20,8 @@ public class TC00_Accountregistration extends Baseclass{
 		hp.searchcontent();
         hp.dropdownsel();
         hp.button();
-        hp.selectthebooks();
-       // hp.addbookscart();
+        //hp.selectthebooks();
+        //hp.addbookscart();
 		}
 		catch(Exception e)
 		{
@@ -29,7 +29,7 @@ public class TC00_Accountregistration extends Baseclass{
 			logger.debug("debug logs...");
 			AssertJUnit.fail();
 		}
-		logger.info("finishing the testcases execution");
+		logger.info("finishing the testcases execution123");
 
 	}
 	

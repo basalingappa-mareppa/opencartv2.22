@@ -12,7 +12,7 @@ public class Addcart extends Basepage{
 
 	public Addcart(WebDriver driver) {
 		super(driver);
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	@FindBy(xpath="//img[@alt='Readers Digest Condensed Books Lot of 10 - Random - Decorative Covers - Reading']") 
